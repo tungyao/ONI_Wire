@@ -132,23 +132,15 @@ namespace ONI_TONG
         }
     }
 
-    [HarmonyPatch(typeof(Db))]
-    [HarmonyPatch("Initialize")]
+    [HarmonyPatch(typeof(Database.Techs))]
+    [HarmonyPatch("Init")]
     internal class DbInitializePatch
     {
         // Token: 0x06000047 RID: 71 RVA: 0x00003480 File Offset: 0x00001680
-        public static void Prefix(Techs __this)
+        [HarmonyPostfix]
+        public static void Postfix()
         {
-            Tech tech28 = new Tech("AdvancedPowerRegulation", new string[7]
-            {
-                "HydrogenGenerator",
-                "HighWattageWire",
-                "WireBridgeHighWattage",
-                "PowerTransformerSmall",
-                "SuperHighWattageWire",
-                LogicPowerRelayConfig.ID,
-                LogicWattageSensorConfig.ID
-            }, __this);
+            Db.Get().Techs.Get("AdvancedPowerRegulation").unlockedItemIDs.Add("SuperHighWattageWire");
         }
     }
 }

@@ -8,9 +8,25 @@
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002EConfiguration_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002ECore_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002EData_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002EEnterpriseServices_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002ENumerics_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002ERuntime_002ESerialization_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002ESecurity_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002EServiceModel_002EInternals_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002ETransactions_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002EXml_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CSystem_002EXml_002ELinq_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=G_003A_005CGame_005Csteam_005Csteamapps_005Ccommon_005COxygenNotIncluded_005COxygenNotIncluded_005FData_005CManaged_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
 	
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="D:\Game\steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed\Assembly-CSharp-firstpass.dll" /&gt;&#xD;
-  &lt;PhysicalFolder Path="D:\Game\steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed" Loaded="True" /&gt;&#xD;
   &lt;Assembly Path="D:\Game\steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed\Assembly-CSharp.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\tungyao\RiderProjects\ONI_Wire\ONI_TONG\bin\Debug\Assembly-CSharp.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
